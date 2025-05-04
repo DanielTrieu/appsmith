@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "680f7aff17c72e32c7e2524a_5f14eace-7871-4a89-9fba-ff28a95758cf",
+  "id": "add_student_post_student_data",
+  "unpublishedCollection": {
+    "name": "post_student_data",
+    "pageId": "add_student",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

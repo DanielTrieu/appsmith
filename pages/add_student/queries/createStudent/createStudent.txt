@@ -1,0 +1,6 @@
+{ "data": 
+ {
+	 "student_name":"{{input_student_name.text}}",
+	 "student_id":"{{input_student_id.text}}"
+ }
+}

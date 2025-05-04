@@ -1,0 +1,6 @@
+{ "data": 
+ {
+	 "student_name":"Nguyễn Thị X",
+	 "student_id":"K23434565"
+ }
+}
