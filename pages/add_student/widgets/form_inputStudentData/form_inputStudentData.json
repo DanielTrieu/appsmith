@@ -9,7 +9,7 @@
   "children": [
     {
       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-      "bottomRow": 320,
+      "bottomRow": 330,
       "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
       "canExtend": false,
       "containerStyle": "none",
@@ -74,7 +74,7 @@
   "mobileTopRow": 14,
   "needsErrorInfo": false,
   "originalBottomRow": 34,
-  "originalTopRow": 2,
+  "originalTopRow": 1,
   "parentColumnSpace": 30.25,
   "parentId": "0",
   "parentRowSpace": 10,
@@ -83,8 +83,8 @@
   "responsiveBehavior": "fill",
   "rightColumn": 45,
   "shouldScrollContents": true,
-  "topRow": 2,
+  "topRow": 1,
   "type": "FORM_WIDGET",
   "widgetId": "0d9g0uo78w",
-  "widgetName": "Form_inputstudentdata"
+  "widgetName": "form_inputStudentData"
 }

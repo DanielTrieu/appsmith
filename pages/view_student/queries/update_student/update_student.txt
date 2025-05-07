@@ -1,5 +1,0 @@
-{ "data": 
- {
-	 "student_name":"Nguyễn Thị X"
- }
-}

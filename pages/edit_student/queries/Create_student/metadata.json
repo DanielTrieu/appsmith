@@ -1,6 +1,6 @@
 {
   "gitSyncId": "680f7aff17c72e32c7e2524a_418318ab-5b27-4793-9ab7-aef061a00092",
-  "id": "view_student_Create_student",
+  "id": "edit_student_Create_student",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -40,7 +40,7 @@
     "dynamicBindingPathList": [],
     "executeOnLoad": false,
     "name": "Create_student",
-    "pageId": "view_student",
+    "pageId": "edit_student",
     "userSetOnLoad": false
   }
 }

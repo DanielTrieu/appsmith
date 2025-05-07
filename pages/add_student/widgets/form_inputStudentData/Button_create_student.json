@@ -1,11 +1,11 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 30,
+  "bottomRow": 31,
   "boxShadow": "none",
   "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-  "buttonVariant": "SECONDARY",
-  "disabledWhenInvalid": false,
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": true,
   "dynamicBindingPathList": [
     {
       "key": "buttonColor"
@@ -14,18 +14,24 @@
       "key": "borderRadius"
     }
   ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
   "isDefaultClickDisabled": true,
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
   "key": "fa4m4ce44c",
-  "leftColumn": 16,
+  "leftColumn": 40,
   "minWidth": 120,
   "mobileBottomRow": 37,
-  "mobileLeftColumn": 30,
-  "mobileRightColumn": 46,
+  "mobileLeftColumn": 46,
+  "mobileRightColumn": 62,
   "mobileTopRow": 33,
   "needsErrorInfo": false,
+  "onClick": "{{post_student_data.postStudentData();}}",
   "originalBottomRow": 32,
   "originalTopRow": 28,
   "parentId": "bzzcoi48mn",
@@ -34,11 +40,11 @@
   "renderMode": "CANVAS",
   "resetFormOnClick": true,
   "responsiveBehavior": "hug",
-  "rightColumn": 32,
-  "text": "Reset",
-  "topRow": 26,
+  "rightColumn": 56,
+  "text": "Create",
+  "topRow": 27,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "m2mx29ft7u",
-  "widgetName": "Button2"
+  "widgetId": "817jp3luvj",
+  "widgetName": "Button_create_student"
 }

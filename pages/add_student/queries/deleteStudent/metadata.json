@@ -21,7 +21,7 @@
       "httpMethod": "DELETE",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",
-      "path": "student-lists/{{Table_student.triggeredRow.documentId}}",
+      "path": "student-lists/{{table_student.triggeredRow.documentId}}",
       "pluginSpecifiedTemplates": [
         {
           "value": true

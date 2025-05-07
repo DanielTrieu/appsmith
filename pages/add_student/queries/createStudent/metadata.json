@@ -11,7 +11,7 @@
           "value": "application/json"
         }
       ],
-      "body": "{ \"data\": \n {\n\t \"student_name\":\"{{input_student_name.text}}\",\n\t \"student_id\":\"{{input_student_id.text}}\"\n }\n}",
+      "body": "{ \"data\": \n {\n\t\t\"student_name\":\"{{input_student_name.text}}\",\n\t \"student_id\":\"{{input_student_id.text}}\"\n }\n}",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {

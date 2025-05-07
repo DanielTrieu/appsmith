@@ -21,7 +21,7 @@
   "icon": "bag",
   "pages": [
     {
-      "id": "view_student",
+      "id": "edit_student",
       "isDefault": false
     },
     {

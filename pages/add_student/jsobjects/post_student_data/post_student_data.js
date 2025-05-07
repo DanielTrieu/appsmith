@@ -1,11 +1,10 @@
 export default {
   async postStudentData() {
     try {
-      const response = await createStudent.run();
+      await createStudent.run();
       showAlert("Student created", "success");
 
-      const list = await getStudentList.run();
-      return list;
+      await getStudentList.run();
     } catch (err) {
       showAlert("Failed to create student", "error");
     }
